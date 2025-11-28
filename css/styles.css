@@ -6,3 +6,14 @@ h1 {
 body {
     background-color: rgba(79, 194, 240, 0.6);
 }
+
+a {
+    text-decoration: wavy;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a:active {
+    text-decoration: wavy;
+    color: gray;
+    font: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
